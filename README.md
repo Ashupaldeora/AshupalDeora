@@ -1,4 +1,4 @@
-![MasterHead](./github-header-image.png)
+![MasterHead](./ashupal.png)
 <h1 align="center">Hi 👋, I'm Ashupal Deora</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
