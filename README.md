@@ -1,5 +1,10 @@
-
 <h2 align="center">Hi 👋! My name is Ashupal and I'm a Flutter developer</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://raw.githubusercontent.com/Ashupaldeora/AshupalDeora/main/Flutter.png"  />
 
 ###
 
@@ -34,9 +39,13 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="center">📈 GitHub Stats 📈</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashupaldeora&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false" height="150" alt="stats graph"  />
